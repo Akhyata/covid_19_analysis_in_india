@@ -4,10 +4,10 @@
 
 #### Overview:
 - **Description**: Analyzed the impact of the COVID-19 pandemic in India, a global health crisis.
-- **Context and Significance**: The project aimed to understand the spread and impact of COVID-19 in India, helping public health authorities make informed decisions.
+- **Context and Significance**: The project aimed to understand the spread and impact of COVID-19 in India.
 
 #### Dataset:
-- **Data Source**: We collected data from various sources, including government health departments, World Health Organization (WHO), and other open datasets.
+- **Data Source**: We  data from our institution.
 - **Format**: Data was primarily in JSON format.
 - **Preprocessing**: Cleaned and transformed the data into structured datasets, including state-wise and district-wise data, as well as time series data.
 
@@ -19,14 +19,13 @@
 - **Visualization**: Created visually appealing dashboards and graphs using Excel for effective data presentation.
 
 #### Dashboard:
-- **Link**: [Include a link to the dashboard if available, or a screenshot if not.]
+- **Link**: https://github.com/Akhyata/covid_19_analysis_in_india/blob/main/file.excel/Excel%20Final%20Dashboard.
 - **Description**: The dashboard provided an interactive platform for stakeholders to monitor the COVID-19 situation in India, with visual representations of key metrics.
 
 #### Findings:
 - Infection rates varied significantly between states, with some regions experiencing more rapid spread.
 - Recovery rates improved over time as healthcare infrastructure adapted to the crisis.
 - High population density areas exhibited higher infection rates.
-- Timely interventions, such as lockdowns and public health campaigns, contributed to the control of the pandemic.
 
 #### Learnings:
 - Gained experience in data collection, cleaning, and analysis.
@@ -42,7 +41,3 @@
 - Incorporate more data sources for a comprehensive view of the pandemic.
 - Extend the project to monitor other public health crises and disasters.
 
-#### References:
-- List any sources, papers, or references consulted during the project.
-
-Now, your project descriptions are more organized and provide a clear understanding of your role and contributions. Make sure to adapt them to accurately reflect your experiences and achievements in each project.
