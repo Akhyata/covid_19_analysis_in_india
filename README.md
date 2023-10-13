@@ -19,7 +19,8 @@
 - **Visualization**: Created visually appealing dashboards and graphs using Excel for effective data presentation.
 
 #### Dashboard:
-- **Link**: https://github.com/Akhyata/covid_19_analysis_in_india/blob/main/file.excel/Excel%20Final%20Dashboard.
+- **Link**: ![image](https://github.com/Akhyata/covid_19_analysis_in_india/assets/143725909/c1bb0332-1f5d-4c20-87c1-328eacc4e42b)
+
 - **Description**: The dashboard provided an interactive platform for stakeholders to monitor the COVID-19 situation in India, with visual representations of key metrics.
 
 #### Findings:
