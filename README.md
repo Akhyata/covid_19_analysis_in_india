@@ -58,9 +58,10 @@ here JSON data converted into CSV format:
 ![Screenshot 2023-10-26 165225](https://github.com/Akhyata/covid_19_analysis_in_india/assets/143725909/6f413411-4c77-4eab-a0c8-9791b190153d)
 
 #### Dashboard 📈:
-![image](https://github.com/Akhyata/covid_19_analysis_in_india/assets/143725909/c1bb0332-1f5d-4c20-87c1-328eacc4e42b)
-
 - **Description**: The dashboard provided an interactive platform for stakeholders to monitor the COVID-19 situation in India, with visual representations of key metrics.
+    where we use pivot table,pivot chart,slicer, themes etc
+
+![image](https://github.com/Akhyata/covid_19_analysis_in_india/assets/143725909/c1bb0332-1f5d-4c20-87c1-328eacc4e42b)
 
 #### Findings 📌:
 - Infection rates varied significantly between states, with some regions experiencing more rapid spread.
